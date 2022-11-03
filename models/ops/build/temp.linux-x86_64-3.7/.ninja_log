@@ -1,0 +1,4 @@
+# ninja log v5
+3	8649	1659420998004387311	/data/user/home/xirui.li@tum.de/project/DETR/RPN_with_deformable_DETR/Deformable-DETR/models/ops/build/temp.linux-x86_64-3.7/data/user/home/xirui.li@tum.de/project/DETR/RPN_with_deformable_DETR/Deformable-DETR/models/ops/src/cpu/ms_deform_attn_cpu.o	acac1f906b472b52
+3	22384	1659421011735908698	/data/user/home/xirui.li@tum.de/project/DETR/RPN_with_deformable_DETR/Deformable-DETR/models/ops/build/temp.linux-x86_64-3.7/data/user/home/xirui.li@tum.de/project/DETR/RPN_with_deformable_DETR/Deformable-DETR/models/ops/src/cuda/ms_deform_attn_cuda.o	b26cc58e38e399ca
+2	26854	1659421016203301787	/data/user/home/xirui.li@tum.de/project/DETR/RPN_with_deformable_DETR/Deformable-DETR/models/ops/build/temp.linux-x86_64-3.7/data/user/home/xirui.li@tum.de/project/DETR/RPN_with_deformable_DETR/Deformable-DETR/models/ops/src/vision.o	66a6f2afa362b5ee
